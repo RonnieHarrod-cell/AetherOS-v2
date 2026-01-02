@@ -1,4 +1,4 @@
-# ARM64 OS with Python IDE
+# AetherOS
 
 A lightweight ARM64 operating system written in Assembly and C, featuring an integrated Python development environment where users can create, save, and run custom applications.
 
